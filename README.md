@@ -1,126 +1,124 @@
-# - 找乐子隐私策略
+# - College Football Coach
 
-本用户协议（简称“协议”）系由我们公司（以下简称“找乐子”）就找乐子提供的找乐子移动客户端应用所订立的相关权利义务规范。找乐子APP是一个严肃纯净的服务软件，请您在注册、使用找乐子之前，认真阅读以下条款：
+## Privacy policy
 
-1、注册条款的接受
+This User Agreement ("Agreement") is a specification of related rights and obligations established by our company (hereinafter referred to as "CFC") for CFC mobile client applications provided by CFC. CFCAPP is a serious and pure service software. Please read the following terms carefully before registering and using CFC:
 
-一旦您在注册页面点击或勾选“阅读并同意接受注册条款”相关内容后，即表示您已经阅读并且同意与找乐子达成协议，成为找乐子的会员，并接受本用户协议下的所有条款。
+1. Acceptance of the registration terms
 
-2、会员注册条件
+Once you click on the check-in page or check the “Read and agree to the registration terms”, you have read and agreed to enter into an agreement with CFC to become a member of CFC and accept all terms of this User Agreement.
 
-申请注册成为找乐子的会员应同时满足下列全部条件：在注册之日以及此后使用找乐子服务期间在注册之日必须年满18周岁以上。
+2. Member registration conditions
 
+A member who applies for registration as a CFC shall meet all of the following conditions: On the date of registration and thereafter, the period of registration must be 18 years of age or older on the date of registration.
 
-3、会员帐号、密码及安全
 
-在完成会员注册程序之后，会员将收到一个密码及帐号。会员有义务保证密码及帐号的安全。会员应对利用该密码及帐号所进行的一切活动负全部责任，包括任何经由看准制品以上载、张贴、发送电子邮件或任何其它方式传送的资讯、资料、文字、软件、音乐、音讯、照片、图形、视讯、信息或其它资料，无论系公开还是私下传送，均由内容提供者承担责任。
+3. Member account, password and security
 
-会员的密码或帐号遭到未获授权的使用，或者发生其它任何安全问题时，会员应立即通知找乐子。由于会员使用不当或者其他非因找乐子导致的帐号、密码泄漏，进而导致其资料、信息泄漏的，由会员承担其不利后果，找乐子不承担责任。
+After completing the membership registration process, members will receive a password and account number. Members are obliged to keep their passwords and accounts secure. Members are solely responsible for all activities carried out using the password and account number, including any information, materials, text, software, music, audio, photos, photos, software, music, audio, photos, uploaded, posted, emailed or otherwise transmitted through the product. The content provider is responsible for graphics, video, information or other materials, whether transmitted publicly or privately.
 
-4、服务说明
+Members should immediately notify CFC if their password or account number has been used without authorization or when any other security issue occurs. CFC is not liable for any adverse consequences caused by the member's improper use or other account or password that is not caused by CFC, resulting in the leakage of information and information.
 
-找乐子通过国际互联网为会员提供网络服务，包括在线及离线的相关业务。为使用网站服务，会员应自行配备进入国际互联网所必需的设备，包括计算机、数据机或其它存取装置，并自行支付登陆国际互联网所需要的费用。
+4, service description
 
-找乐子在提供网络服务时，可能会对部分网络服务收取一定的费用，在此情况下，会在相关页面上做明确的提示。如会员拒绝支付该等费用，则不能使用相关的网络服务。付费业务将在本注册条款的基础上另行规定服务条款，以规范付费业务的内容和双方的权利义务，会员应认真阅读，如会员购买付费业务，则视为接受付费业务的服务条款。
+CFC provides network services to its members through the Internet, including online and offline related businesses. In order to use the website service, members should provide their own equipment, including computers, data machines or other access devices, necessary to access the Internet, and pay for the cost of logging into the Internet.
 
-3)无论是付费服务还是找乐子的免费服务均有有效期，有效期结束后服务将自动终止，且有效期不可中断或延期。除非本注册条款或其他相关服务条款另有规定，所有付费业务均不退费。
+When CFC provides network services, it may charge a certain fee for some network services. In this case, clear instructions will be made on the relevant pages. If the member refuses to pay the fee, the relevant network service cannot be used. The paid service will separately stipulate the terms of service on the basis of this registration clause to regulate the content of the paid business and the rights and obligations of both parties. Members should read it carefully. If the member purchases the paid business, it is deemed to be the terms of service for accepting the paid service.
 
-对于利用找乐子进行非法活动，或其言行（无论线上或者线下的）背离找乐子严肃目的的，找乐子将严肃处理，包括将其列入黑名单、将其被投诉的情形公之于众、删除会员帐号等处罚措施。
+3) Both the paid service and the CFC free service have an expiration date. After the expiration date, the service will be automatically terminated and the validity period cannot be interrupted or postponed. All paid services are non-refundable unless otherwise stated in these registration terms or other relevant terms of service.
 
-找乐子有权向其会员发送广告信，或为活动等目的，向其会员发送电子邮件、短信或电话通知。
+CFC will take serious care of illegal activities using CFC, or its words and deeds (whether online or offline), such as blacklisting, publicizing its complaints, deleting member accounts, etc. Punishment measures.
 
-找乐子的道具等服务只在产品平台上或由找乐子直接对外出售或者赠送使用权，对于会员使用非官方提供或者售卖的直豆、彩虹卡等虚拟道具造成经济等损失的情况，找乐子不对其负责。
+CFC has the right to send an advertising letter to its members or to send an email, text message or telephone notification to its members for purposes such as activities.
 
-5、免责条款
+CFC's props and other services are only sold or donated directly on the product platform or by CFC. CFC is not responsible for any economic losses caused by members using unlicensed or sold virtual beans such as straight beans and rainbow cards.
 
-找乐子不保证其提供的服务一定能满足会员的要求和期望，也不保证服务不会中断，对服务的及时性、安全性、准确性都不作保证。
+5. Disclaimer
 
-对于会员通过找乐子提供的服务传送的内容，找乐子会尽合理努力按照国家有关规定严格审查，但无法完全控制经由软件/网站服务传送的内容，不保证内容的正确性、完整性或品质。因此会员在使用找乐子服务时，可能会接触到令人不快、不适当或令人厌恶的内容。在任何情况下，找乐子均不为会员经由软件/网站服务以张贴、发送电子邮件或其它方式传送的任何内容负责。但找乐子有权依法停止传输任何前述内容并采取相应行动，包括但不限于暂停会员使用网站服务的全部或部分，保存有关记录，并根据国家法律法规、相关政策在必要时向有关机关报告并配合有关机关的行动。
+CFC does not guarantee that the services it provides will meet the requirements and expectations of its members, nor will it guarantee that services will not be interrupted, and that the timeliness, security and accuracy of the services will not be guaranteed.
 
-对于找乐子提供的各种广告信息、链接、资讯等，找乐子不保证其内容的正确性、合法性或可靠性，相关责任由广告商承担；并且，对于会员经由找乐子服务与广告商进行联系或商业往来，完全属于会员和广告商之间的行为，与找乐子无关。对于前述商业往来所产生的任何损害或损失，看准则回聘不承担任何责任。
+CFC will make reasonable efforts to strictly follow the relevant regulations of the State for the content transmitted by members through the services provided by CFC, but it cannot fully control the content transmitted via the software/website service, and does not guarantee the correctness, completeness or quality of the content. Therefore, members may be exposed to unpleasant, inappropriate or disgusting content when using CFC services. Under no circumstances will CFC be liable for any content posted, emailed or otherwise transmitted by Members via the Software/Web Services. However, CFC has the right to stop transmitting any of the foregoing contents and take corresponding actions according to law, including but not limited to suspending all or part of the use of the website services by members, keeping relevant records, and reporting and coordinating with relevant authorities when necessary according to national laws and regulations and relevant policies. The actions of the relevant authorities.
 
-对于用户上传的照片、资料、证件等，找乐子已采用相关措施并已尽合理努力进行审核，但不保证其内容的正确性、合法性或可靠性，相关责任由上传上述内容的会员负责。
+CFC does not guarantee the correctness, legality or reliability of its contents for various advertising information, links, information, etc. provided by CFC, and the related responsibilities shall be borne by the advertiser; and, for members to contact or advertisers via CFC services, The relationship between members and advertisers is completely unrelated to CFC. In the event of any damage or loss arising from the aforementioned business dealings, no responsibility shall be assumed for the return of the guidelines.
 
+For users uploading photos, materials, documents, etc., CFC has adopted relevant measures and has made reasonable efforts to conduct audits, but does not guarantee the correctness, legality or reliability of its contents. The relevant responsibilities are the responsibility of the members who upload the above contents.
 
-是否使用软件/网站服务下载或取得任何资料应由会员自行考虑并自负风险，因任何资料的下载而导致的会员电脑系统的任何损坏或数据丢失等后果，找乐子不承担任何责任。
 
-对于本软件/网站策划、发起、组织或是承办的任何会员活动（包括但不限于收取费用以及完全公益的活动），找乐子不对上述活动的效果向会员作出任何保证或承诺，也不担保活动期间会员自身行为的合法性、合理性。由此产生的任何对于会员个人或者他人的人身或者是名誉以及其他损害，本软件/网站不承担任何责任。
+Whether to use the software/website service to download or obtain any information should be considered by the members themselves and at their own risk. CFC will not be responsible for any damage or loss of data of the member computer system caused by the download of any information.
 
-对于会员的投诉，找乐子将尽合理努力认真核实，但不保证最终公之于众的投诉的真实性、合法性，对于投诉内容侵犯会员隐私权、名誉权等合法权利的，所有法律责任由投诉者承担，与找乐子无关。
+CFC does not make any guarantees or promises to the members of the Software/Website planning, sponsoring, organizing or hosting any membership activities (including but not limited to fees and full charitable activities), and does not guarantee the duration of the event. The legitimacy and rationality of the members' own behavior. The Software/Website assumes no responsibility for any personal or honour or other damages resulting from the personal or other members of the Member.
 
+For members' complaints, CFC will make reasonable efforts to verify it carefully, but it does not guarantee the authenticity and legitimacy of the complaints that are finally made public. All legal liabilities for the content of the complaint infringing the members' right to privacy and reputation are borne by the complainant. Not related to CFC.
 
-6、会员权利会员对于自己的个人资料享有以下权利：
 
-1）随时查询及请求阅览，但因极少数特殊情况（如被网站加入黑名单等）无法查询及提供阅览的除外；
+6. Member Rights Members have the following rights to their personal data:
 
-2）随时请求补充或更正，但因极少数特殊情况（如网站或有关机关为司法程序保全证据等）无法补充或更正的除外；
+1) Inquiries and requests for viewing at any time, except for very few special circumstances (such as being blacklisted by the website), etc.
 
-3）随时请求关闭账户。
+2) Request for supplementation or correction at any time, except for a small number of special circumstances (such as the website or the relevant authorities for the judicial process to preserve evidence, etc.), except that it cannot be supplemented or corrected;
 
-7、会员应遵守以下法律法规：
+3) Request to close the account at any time.
 
-找乐子提醒会员在使用找乐子服务时，应遵守《中华人民共和国合同法》、《中华人民共和国著作权法》、《全国人民代表大会常务委员会关于维护互联网安全的决定》、《中华人民共和国保守国家秘密法》、《中华人民共和国电信条例》、《中华人民共和国计算机信息系统安全保护条例》、《中华人民共和国计算机信息网络国际联网管理暂行规定》及其实施办法、《计算机信息系统国际联网保密管理规定》、《互联网信息服务管理办法》、《计算机信息网络国际联网安全保护管理办法》、《互联网电子公告服务管理规定》等相关中国法律法规的规定。
+7. Members should abide by the following laws and regulations:
 
-在任何情况下，如果找乐子有理由认为会员使用找乐子服务过程中的任何行为，包括但不限于会员的任何言论和其它行为违反或可能违反上述法律和法规的任何规定，找乐子可在任何时候不经任何事先通知终止向该会员提供服务。
+CFC reminds members to comply with the "Contract Law of the People's Republic of China", "Copyright Law of the People's Republic of China", "Decision of the Standing Committee of the National People's Congress on Safeguarding Internet Security" and "Conservation of State Secrets of the People's Republic of China" when using CFC services. "Telecommunication Regulations of the People's Republic of China", "Regulations on the Security Protection of Computer Information Systems of the People's Republic of China", "Interim Provisions on the Administration of International Network of Computer Information Networks of the People's Republic of China" and Implementation Measures, and Provisions on the Administration of Confidentiality of International Network of Computer Information Systems , "Internet Information Services Management Measures", "Computer Information Network International Network Security Protection Management Measures", "Internet Electronic Announcement Service Management Regulations" and other relevant Chinese laws and regulations.
 
-8、禁止会员从事下列行为:
+In any event, if the CFC has reason to believe that any use of the CFC Service by the Member, including but not limited to any statement or other conduct by the Member, violates or may violate any of the above laws and regulations, the CFC may not pass at any time. Termination of service to the member by any prior notice.
 
-1)发布信息或者利用找乐子的服务时在找乐子的网页上或者利用找乐子的服务制作、复制、发布、传播以下信息：反对宪法所确定的基本原则的；危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；损害国家荣誉和利益的；煽动民族仇恨、民族歧视、破坏民族团结的；破坏国家宗教政策，宣扬邪教和封建迷信的；散布谣言，扰乱社会秩序，破坏社会稳定的；散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；侮辱或者诽谤他人，侵害他人合法权利的；含有虚假、有害、胁迫、侵害他人隐私、骚扰、侵害、中伤、粗俗、猥亵、或其它有悖道德、令人反感的内容；含有中国法律、法规、规章、条例以及任何具有法律效力的规范所限制或禁止的其它内容的。
+8. Members are prohibited from engaging in the following acts:
 
-使用找乐子服务的过程中，以任何方式危害未成年人的利益的。
+1) Produce, copy, publish, and disseminate the following information on the CFC website or using CFC services when publishing information or using CFC services: against the basic principles established by the Constitution; endangering national security, revealing state secrets, and subverting state power Destroying national unity; damaging national glory and interests; inciting national hatred, ethnic discrimination, and undermining national unity; undermining national religious policies, promoting cults and feudal superstitions; spreading rumors, disrupting social order, and undermining social stability; Obscenity, pornography, gambling, violence, murder, terror or abetment; insulting or slandering others, infringing on the legal rights of others; containing false, harmful, coercive, infringing on the privacy of others, harassment, infringement, slander, vulgarity, jealousy, or other Content that is ethical and objectionable; contains other content that is restricted or prohibited by Chinese laws, regulations, rules, regulations, and any legally binding norms.
 
-冒充任何人或机构，包含但不限于冒充找乐子工作人员或以虚伪不实的方式陈述或谎称与任何人或机构有关的。
+The use of CFC services in any way harms the interests of minors.
 
-4)将侵犯任何人的肖像权、名誉权、隐私权、专权、商标权、著作权、商业秘密或其它专属权利的内容上载、张贴、发送电子邮件或以其它方式传送的。
+Impersonate any person or institution, including but not limited to impersonating a CFC worker or making a false or false statement or lied about any person or institution.
 
-5)将病毒或其它计算机代码、档案和程序，加以上载、张贴、发送电子邮件或以其它方式传送的。
+4) Upload, post, email or otherwise transmit content that infringes anyone's portrait, reputation, privacy, exclusive rights, trademarks, copyrights, trade secrets or other proprietary rights.
 
-跟踪或以其它方式骚扰其他会员的。
+5) Upload, post, email or otherwise transmit viruses or other computer code, files and programs.
 
-未经合法授权而截获、篡改、收集、储存或删除他人个人信息、电子邮件或其它数据资料，或将获知的此类资料用于任何非法或不正当目的。
+Track or otherwise harass other members.
 
-以任何方式干扰找乐子服务的。
+Intercepting, tampering with, collecting, storing or deleting personal information, emails or other data, or using such information for any illegal or improper purpose without legal authorization.
 
-10、隐私权
+Interfering with CFC services in any way.
 
-本注册条款所涉及的隐私是指：在会员注册找乐子帐户时，会保存您喜欢的笑话与趣图。
+10. Privacy
 
-找乐子收集上述信息将用于：提供网站服务、改进网页内容，满足会员对某种产品、活动的需求、通知会员最新产品、活动信息、或根据法律法规要求的用途。
+The privacy covered by this registration clause means that when a member registers for a CFC account, he will save your favorite jokes and interesting pictures.
 
-会员的找乐子帐号具有密码保护功能，以确保会员的隐私和信息安全。在某些情况下，找乐子使用通行标准的保密系统，确保资料传送的安全性。
+CFC collects the above information and will be used to: provide website services, improve web content, meet members' needs for a certain product, activity, notify members of the latest products, event information, or use according to laws and regulations.
 
-5)会员的个人识别信息不会被出租、出售或以任何方式透露给给任何第三方，但以下情况除外：会员明确同意让第三方共享资料；透露会员的个人资料是提供会员所要求的产品和服务的必要条件；为保护找乐子、会员及社会公众的权利、财产或人身安全；根据法律法规的规定，向司法机关提供；受到黑客攻击导致会员信息泄漏的；被搜索引擎在搜索结果中显示；法律规定的其他情形。
+The member's CFC account is password protected to ensure member privacy and information security. In some cases, CFC uses a standard security system to ensure the security of data transmission.
 
-11、结束服务
+5) The member's personally identifiable information will not be rented, sold or disclosed to any third party in any way, except in the following cases: the member expressly agrees to let the third party share the information; revealing the member's personal information is to provide the product requested by the member. And the necessary conditions for the service; to protect the rights, property or personal safety of the CFC, members and the public; to provide to the judiciary according to the provisions of laws and regulations; to be leaked by hacker attacks; to be displayed by search engines in search results Other circumstances as stipulated by law.
 
-会员若反对任何注册条款的内容或对之后注册条款修改有异议，或对找乐子服务不满，会员有以下权利：不再使用找乐子服务；结束会员使用找乐子服务的资格；通知找乐子停止该会员的服务。结束会员服务的同时，会员使用找乐子服务的权利立即终止，找乐子不再对会员承担任何义务。
+11. End the service
 
-12、禁止商业行为
+If a member objects to the terms of any registration clause or disagrees with the subsequent modification of the registration terms, or is dissatisfied with the CFC service, the member has the following rights: no longer use the CFC service; end the membership's eligibility to use the CFC service; notify the CFC to stop the member's service. At the end of the membership service, the member's right to use the CFC service is immediately terminated, and CFC no longer assumes any obligations to the member.
 
-会员同意不对找乐子提供的服务或服务的任何部分，进行复制、拷贝、出售、转售或用于任何其他商业目的。
+12. Prohibition of business conduct
 
-禁止通过职位向应聘者收费，如有不实，我们将结束会员使用找乐子服务的资格。
+Members agree not to copy, copy, sell, resell or use any part of the services or services offered by CFC for any other commercial purpose.
 
-13、赔偿
+It is forbidden to charge applicants through positions. If there is any misrepresentation, we will end the membership's eligibility to use CFC services.
 
-因会员通过找乐子提供的服务提供、张贴或传送内容、违反本服务条款、或侵害他人任何权利而导致任何第三人对找乐子提出任何索赔或请求，会员应当赔偿找乐子或其他合作伙伴的损失，包括但不限于赔偿金额、律师费和合理的调查费用等。
+13. Compensation
 
-会员在投诉其他会员有违法行为或违反本注册条款情形时，投诉者应承担不实投诉所产生的全部法律责任。如侵犯他人的合法权益，投诉人应独立承担全部法律责任。如给找乐子造成损失的，投诉人应对找乐子承担相应的赔偿责任。
+The member shall compensate the CFC or other partner for any loss or damage caused by the third party to the CFC due to the member providing, posting or transmitting the content through the services provided by CFC, in violation of these Terms of Service, or infringement of any rights of others. However, it is not limited to compensation amount, legal fees and reasonable investigation fees.
 
-14、会员注册条款的变更和修改
+When a member complains that other members have violated the law or violated the terms of this registration, the complainant shall bear all legal liabilities arising from the false complaint. If the lawful rights and interests of others are violated, the complainant shall bear all legal responsibilities independently. If the CFC causes losses, the complainant shall bear corresponding liability for the CFC.
 
-找乐子网站有权随时对本注册条款进行变更和修改。一旦发生注册条款的变动，找乐子网站将在页面上提示修改的内容，或将最新版本的会员注册条款以邮件的形式发送给会员。会员如果不同意会员注册条款的修改，可以主动取消会员资格（如注销账号），如对部分服务支付了额外的费用，可以申请将费用全额或部分退回。如果会员继续使用会员帐号，则视为会员已经接受会员注册条款的修改。
+14. Changes and modifications to the membership registration terms
 
-15、不可抗力
+The CFC website reserves the right to make changes and modifications to these registration terms at any time. In the event of a change in the registration terms, the CFC website will prompt the revised content on the page or send the latest version of the member registration terms to the member by email. If members do not agree to the modification of the membership registration terms, they can cancel the membership (such as canceling the account number). If additional fees are paid for some services, they can apply for the full or partial refund. If the member continues to use the member account, it is deemed that the member has accepted the modification of the member registration terms.
 
-“不可抗力”是指找乐子不能合理控制、不可预见或即使预见亦无法避免的事件，该事件妨碍、影响或延误找乐子根据本注册条款履行其全部或部分义务。该事件包括但不限于政府行为、自然灾害、战争、黑客袭击、电脑病毒、网络故障等。不可抗力可能导致找乐子网站无法访问、访问速度缓慢、存储数据丢失、会员个人信息泄漏等不利后果。
+15. Force majeure
 
-遭受不可抗力事件时，找乐子可中止履行本注册条款项下的义务直至不可抗力的影响消除为止，并且不因此承担违约责任；但应尽最大努力克服该事件，减轻其负面影响。
+“Force Majeure” means an event that CFC cannot reasonably control, is unforeseeable, or cannot be avoided even if foreseen, and the Event obstructs, affects or delays the CFC's performance of all or part of its obligations under this registration. The incident includes, but is not limited to, government actions, natural disasters, wars, hacking attacks, computer viruses, network failures, and the like. Force majeure may result in inaccessible CFC websites, slow access, loss of stored data, and leakage of personal information from members.
 
-16、通知
+In the event of force majeure, CFC may suspend the performance of this registration clause until the impact of force majeure is eliminated, and shall not be liable for breach of contract; however, every effort should be made to overcome the incident and mitigate its negative impact.
 
-找乐子向其会员发出的通知，将采用电子邮件或页面公告的形式。注册条款的修改或其他事项变更时，找乐子可以以上述形式进行通知。
+16, notice
 
-17、法律的适用和管辖
-
-本注册条款的生效、履行、解释及争议的解决均适用中华人民共和国的现行法律，所发生的争议应提交北京仲裁委员会，其仲裁裁决是终局的。本注册条款因与中华人民共和国现行法律相抵触而导致部分条款无效的，不影响其他条款的效力。
+Notices sent by CFC to its members will be in the form of an email or page announcement. The CFC may notify you in the above form when the registration terms are modified or other matters are changed.
